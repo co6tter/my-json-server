@@ -339,6 +339,24 @@
       "terminal_allowance": 0,
       "salary_reduction_rate": 0,
       "payment_rate": 100
+    },
+    {
+      "id": 2,
+      "payment_date": "2020/01/02",
+      "staff_code": 2,
+      "department": 2,
+      "name": "宮越 知世",
+      "salary_table": 2,
+      "grade": 2,
+      "step_salary": 2,
+      "monthly_salary": 500000,
+      "salary_adjustment": 10000,
+      "dependent_allowance": 20000,
+      "housing_allowance": 30000,
+      "teacher_special_allowance": 0,
+      "terminal_allowance": 0,
+      "salary_reduction_rate": 0,
+      "payment_rate": 100
     }
   ]
 }
