@@ -357,6 +357,24 @@
       "terminal_allowance": 0,
       "salary_reduction_rate": 0,
       "payment_rate": 100
+    },
+    {
+      "id": 3,
+      "payment_date": "2020/01/03",
+      "staff_code": 3,
+      "department": 3,
+      "name": "小牧 信玄",
+      "salary_table": 3,
+      "grade": 3,
+      "step_salary": 3,
+      "monthly_salary": 500000,
+      "salary_adjustment": 10000,
+      "dependent_allowance": 20000,
+      "housing_allowance": 30000,
+      "teacher_special_allowance": 0,
+      "terminal_allowance": 0,
+      "salary_reduction_rate": 0,
+      "payment_rate": 100
     }
   ]
 }
