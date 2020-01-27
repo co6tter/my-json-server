@@ -1,5 +1,5 @@
 {
-  "users":[
+  "users": [
     {
       "staff_code": 1,
       "department": 1,
@@ -319,6 +319,26 @@
       "payment": 4034,
       "deduction": 5818,
       "total": 566
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "payment_date": "2020/01/01",
+      "staff_code": 1,
+      "department": 1,
+      "name": "新海 正文",
+      "salary_table": 1,
+      "grade": 1,
+      "step_salary": 1,
+      "monthly_salary": 500000,
+      "salary_adjustment": 10000,
+      "dependent_allowance": 20000,
+      "housing_allowance": 30000,
+      "teacher_special_allowance": 0,
+      "terminal_allowance": 0,
+      "salary_reduction_rate": 0,
+      "payment_rate": 100
     }
   ]
 }
