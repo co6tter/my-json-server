@@ -1,380 +1,132 @@
 {
-  "users": [
-    {
-      "staff_code": 1,
-      "work_location": 1,
-      "name": "新海 正文",
-      "salary_code": 1,
-      "grade_code": 1,
-      "step_salary_code": 1,
-      "total_payments": 6439,
-      "total_adjustments": 6892,
-      "not_deduct": 1000,
-      "statement": 1,
-      "human_resources": 1,
-      "payment": 5727,
-      "deduction": 4447,
-      "total_work_allowance": 4314
-    },
-    {
-      "staff_code": 2,
-      "work_location": 2,
-      "name": "宮越 知世",
-      "salary_code": 2,
-      "grade_code": 2,
-      "step_salary_code": 2,
-      "total_payments": 8728,
-      "total_adjustments": 7455,
-      "not_deduct": 1000,
-      "statement": 2,
-      "human_resources": 2,
-      "payment": 3112,
-      "deduction": 2051,
-      "total_work_allowance": 6040
-    },
-    {
-      "staff_code": 3,
-      "work_location": 3,
-      "name": "小牧 信玄",
-      "salary_code": 3,
-      "grade_code": 3,
-      "step_salary_code": 3,
-      "total_payments": 1254,
-      "total_adjustments": 1297,
-      "not_deduct": 1000,
-      "statement": 3,
-      "human_resources": 3,
-      "payment": 5196,
-      "deduction": 7924,
-      "total_work_allowance": 2338
-    },
-    {
-      "staff_code": 4,
-      "work_location": 4,
-      "name": "市村 真優",
-      "salary_code": 4,
-      "grade_code": 4,
-      "step_salary_code": 4,
-      "total_payments": 4979,
-      "total_adjustments": 4108,
-      "not_deduct": 1000,
-      "statement": 4,
-      "human_resources": 4,
-      "payment": 2369,
-      "deduction": 5207,
-      "total_work_allowance": 6582
-    },
-    {
-      "staff_code": 5,
-      "work_location": 5,
-      "name": "杉野 文隆",
-      "salary_code": 5,
-      "grade_code": 5,
-      "step_salary_code": 5,
-      "total_payments": 3783,
-      "total_adjustments": 2263,
-      "not_deduct": 1000,
-      "statement": 5,
-      "human_resources": 5,
-      "payment": 1520,
-      "deduction": 4207,
-      "total_work_allowance": 4059
-    },
-    {
-      "staff_code": 6,
-      "work_location": 6,
-      "name": "谷 聡子",
-      "salary_code": 6,
-      "grade_code": 6,
-      "step_salary_code": 6,
-      "total_payments": 3072,
-      "total_adjustments": 5979,
-      "not_deduct": 1000,
-      "statement": 6,
-      "human_resources": 6,
-      "payment": 4250,
-      "deduction": 8561,
-      "total_work_allowance": 2429
-    },
-    {
-      "staff_code": 7,
-      "work_location": 7,
-      "name": "柳 由美",
-      "salary_code": 7,
-      "grade_code": 7,
-      "step_salary_code": 7,
-      "total_payments": 8778,
-      "total_adjustments": 2582,
-      "not_deduct": 1000,
-      "statement": 7,
-      "human_resources": 7,
-      "payment": 4243,
-      "deduction": 2975,
-      "total_work_allowance": 138
-    },
-    {
-      "staff_code": 8,
-      "work_location": 8,
-      "name": "黒澤 雄一",
-      "salary_code": 8,
-      "grade_code": 8,
-      "step_salary_code": 8,
-      "total_payments": 6866,
-      "total_adjustments": 4303,
-      "not_deduct": 1000,
-      "statement": 8,
-      "human_resources": 8,
-      "payment": 5907,
-      "deduction": 3678,
-      "total_work_allowance": 6850
-    },
-    {
-      "staff_code": 9,
-      "work_location": 9,
-      "name": "岡野 俊治",
-      "salary_code": 9,
-      "grade_code": 9,
-      "step_salary_code": 9,
-      "total_payments": 6254,
-      "total_adjustments": 3095,
-      "not_deduct": 1000,
-      "statement": 9,
-      "human_resources": 9,
-      "payment": 7245,
-      "deduction": 2226,
-      "total_work_allowance": 6745
-    },
-    {
-      "staff_code": 10,
-      "work_location": 10,
-      "name": "栗本 莉桜",
-      "salary_code": 10,
-      "grade_code": 10,
-      "step_salary_code": 10,
-      "total_payments": 9708,
-      "total_adjustments": 4901,
-      "not_deduct": 1000,
-      "statement": 10,
-      "human_resources": 10,
-      "payment": 9881,
-      "deduction": 7501,
-      "total_work_allowance": 3505
-    },
-    {
-      "staff_code": 11,
-      "work_location": 11,
-      "name": "難波 文",
-      "salary_code": 11,
-      "grade_code": 11,
-      "step_salary_code": 11,
-      "total_payments": 4311,
-      "total_adjustments": 7921,
-      "not_deduct": 1000,
-      "statement": 11,
-      "human_resources": 11,
-      "payment": 7596,
-      "deduction": 8703,
-      "total_work_allowance": 7241
-    },
-    {
-      "staff_code": 12,
-      "work_location": 12,
-      "name": "笠松 君子",
-      "salary_code": 12,
-      "grade_code": 12,
-      "step_salary_code": 12,
-      "total_payments": 5209,
-      "total_adjustments": 4979,
-      "not_deduct": 1000,
-      "statement": 12,
-      "human_resources": 12,
-      "payment": 4650,
-      "deduction": 4494,
-      "total_work_allowance": 6447
-    },
-    {
-      "staff_code": 13,
-      "work_location": 13,
-      "name": "坂本 竜也",
-      "salary_code": 13,
-      "grade_code": 13,
-      "step_salary_code": 13,
-      "total_payments": 5156,
-      "total_adjustments": 1364,
-      "not_deduct": 1000,
-      "statement": 13,
-      "human_resources": 13,
-      "payment": 6573,
-      "deduction": 3988,
-      "total_work_allowance": 2644
-    },
-    {
-      "staff_code": 14,
-      "work_location": 14,
-      "name": "立川 竜三",
-      "salary_code": 14,
-      "grade_code": 14,
-      "step_salary_code": 14,
-      "total_payments": 8575,
-      "total_adjustments": 2225,
-      "not_deduct": 1000,
-      "statement": 14,
-      "human_resources": 14,
-      "payment": 2441,
-      "deduction": 9039,
-      "total_work_allowance": 1782
-    },
-    {
-      "staff_code": 15,
-      "work_location": 15,
-      "name": "廣田 敏夫",
-      "salary_code": 15,
-      "grade_code": 15,
-      "step_salary_code": 15,
-      "total_payments": 5359,
-      "total_adjustments": 5757,
-      "not_deduct": 1000,
-      "statement": 15,
-      "human_resources": 15,
-      "payment": 2068,
-      "deduction": 8277,
-      "total_work_allowance": 9033
-    },
-    {
-      "staff_code": 16,
-      "work_location": 16,
-      "name": "城 敬三",
-      "salary_code": 16,
-      "grade_code": 16,
-      "step_salary_code": 16,
-      "total_payments": 1800,
-      "total_adjustments": 54,
-      "not_deduct": 1000,
-      "statement": 16,
-      "human_resources": 16,
-      "payment": 4662,
-      "deduction": 4891,
-      "total_work_allowance": 9815
-    },
-    {
-      "staff_code": 17,
-      "work_location": 17,
-      "name": "小柴 俊夫",
-      "salary_code": 17,
-      "grade_code": 17,
-      "step_salary_code": 17,
-      "total_payments": 3424,
-      "total_adjustments": 3018,
-      "not_deduct": 1000,
-      "statement": 17,
-      "human_resources": 17,
-      "payment": 88,
-      "deduction": 3026,
-      "total_work_allowance": 1095
-    },
-    {
-      "staff_code": 18,
-      "work_location": 18,
-      "name": "多賀 晴彦",
-      "salary_code": 18,
-      "grade_code": 18,
-      "step_salary_code": 18,
-      "total_payments": 9513,
-      "total_adjustments": 7431,
-      "not_deduct": 1000,
-      "statement": 18,
-      "human_resources": 18,
-      "payment": 2046,
-      "deduction": 513,
-      "total_work_allowance": 101
-    },
-    {
-      "staff_code": 19,
-      "work_location": 19,
-      "name": "大藤 薫",
-      "salary_code": 19,
-      "grade_code": 19,
-      "step_salary_code": 19,
-      "total_payments": 710,
-      "total_adjustments": 6599,
-      "not_deduct": 1000,
-      "statement": 19,
-      "human_resources": 19,
-      "payment": 2217,
-      "deduction": 4723,
-      "total_work_allowance": 7278
-    },
-    {
-      "staff_code": 20,
-      "work_location": 20,
-      "name": "田井 静香",
-      "salary_code": 20,
-      "grade_code": 20,
-      "step_salary_code": 20,
-      "total_payments": 6011,
-      "total_adjustments": 1674,
-      "not_deduct": 1000,
-      "statement": 20,
-      "human_resources": 20,
-      "payment": 4034,
-      "deduction": 5818,
-      "total_work_allowance": 566
-    }
-  ],
-  "user": [
+  "definition_groups": [
     {
       "id": 1,
-      "payment_date": "2020/01/01",
-      "staff_code": 1,
-      "work_location": 1,
-      "name": "新海 正文",
-      "salary_code": 1,
-      "grade_code": 1,
-      "step_salary_code": 1,
-      "monthly_salary": 500000,
-      "salary_adjustment": 10000,
-      "dependent_allowance": 20000,
-      "housing_allowance": 30000,
-      "teacher_special_allowance": 0,
-      "terminal_allowance": 0,
-      "salary_reduction_rate": 0,
-      "payment_rate": 100
+      "name": "その他グループ",
+      "items": [
+        {
+          "id": 1,
+          "name": "取り込まない項目"
+        },
+        {
+          "id": 2,
+          "name": "職員番号"
+        }
+      ]
     },
     {
       "id": 2,
-      "payment_date": "2020/01/02",
-      "staff_code": 2,
-      "work_location": 2,
-      "name": "宮越 知世",
-      "salary_code": 2,
-      "grade_code": 2,
-      "step_salary_code": 2,
-      "monthly_salary": 500000,
-      "salary_adjustment": 10000,
-      "dependent_allowance": 20000,
-      "housing_allowance": 30000,
-      "teacher_special_allowance": 0,
-      "terminal_allowance": 0,
-      "salary_reduction_rate": 0,
-      "payment_rate": 100
+      "name": "項目グループ1",
+      "items": [
+        {
+          "id": 3,
+          "name": "項目1-1"
+        },
+        {
+          "id": 4,
+          "name": "項目1-2"
+        },
+        {
+          "id": 5,
+          "name": "項目1-3"
+        },
+        {
+          "id": 6,
+          "name": "項目1-4"
+        },
+        {
+          "id": 7,
+          "name": "項目1-5"
+        },
+        {
+          "id": 8,
+          "name": "項目1-6"
+        },
+        {
+          "id": 9,
+          "name": "項目1-7"
+        },
+        {
+          "id": 10,
+          "name": "項目1-8"
+        }
+      ]
     },
     {
       "id": 3,
-      "payment_date": "2020/01/03",
-      "staff_code": 3,
-      "work_location": 3,
-      "name": "小牧 信玄",
-      "salary_code": 3,
-      "grade_code": 3,
-      "step_salary_code": 3,
-      "monthly_salary": 500000,
-      "salary_adjustment": 10000,
-      "dependent_allowance": 20000,
-      "housing_allowance": 30000,
-      "teacher_special_allowance": 0,
-      "terminal_allowance": 0,
-      "salary_reduction_rate": 0,
-      "payment_rate": 100
+      "name": "項目グループ2",
+      "items": [
+        {
+          "id": 11,
+          "name": "項目2-1"
+        },
+        {
+          "id": 12,
+          "name": "項目2-2"
+        },
+        {
+          "id": 13,
+          "name": "項目2-3"
+        },
+        {
+          "id": 14,
+          "name": "項目2-4"
+        },
+        {
+          "id": 15,
+          "name": "項目2-5"
+        },
+        {
+          "id": 16,
+          "name": "項目2-6"
+        },
+        {
+          "id": 17,
+          "name": "項目2-7"
+        },
+        {
+          "id": 18,
+          "name": "項目2-8"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "項目グループ3",
+      "items": [
+        {
+          "id": 19,
+          "name": "項目3-1"
+        },
+        {
+          "id": 20,
+          "name": "項目3-2"
+        },
+        {
+          "id": 21,
+          "name": "項目3-3"
+        },
+        {
+          "id": 22,
+          "name": "項目3-4"
+        },
+        {
+          "id": 23,
+          "name": "項目3-5"
+        },
+        {
+          "id": 24,
+          "name": "項目3-6"
+        },
+        {
+          "id": 25,
+          "name": "項目3-7"
+        },
+        {
+          "id": 26,
+          "name": "項目3-8"
+        }
+      ]
     }
   ]
 }
